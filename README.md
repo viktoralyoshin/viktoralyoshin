@@ -21,13 +21,13 @@
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <!-- Статистика аккаунта -->
-          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" />
+          <img src="https://github-readme-stats.vercel.app/api?username=viktoralyoshin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <!-- Топ языков -->
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="160" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoralyoshin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="160" />
         </a>
       </td>
     </tr>
@@ -38,16 +38,16 @@
   <!-- 4. ЗМЕЙКА (SNAKE ANIMATION) -->
   <!-- Эта картинка появится только после настройки Action (см. инструкцию ниже) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viktoralyoshin/viktoralyoshin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viktoralyoshin/viktoralyoshin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viktoralyoshin/viktoralyoshin/output/github-contribution-grid-snake.svg">
   </picture>
 
   <br>
 
   <!-- 5. ТРОФЕИ -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=viktoralyoshin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 
   <br><br>
