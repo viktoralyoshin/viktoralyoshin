@@ -14,10 +14,6 @@
 - ⚡ Fun fact: **I use Arch btw (just kidding... or not?)**
 - 🎮 Hobbies: **Coding, Retro Games, Tech**
 
-  <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</div>
-
   <!-- 2. ЗМЕЙКА (Самая надежная статистика сейчас) -->
   <!-- Она берется из твоего же репозитория, поэтому не упадет -->
   <picture>
@@ -43,10 +39,6 @@
   </a>
 
   <br><br>
-
-  <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</div>
 
   ### 🚀 Latest Activity
 <!--START_SECTION:activity-->
