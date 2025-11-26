@@ -40,10 +40,6 @@
 
   <br><br>
 
-  ### 🚀 Latest Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
   <!-- 5. КОНТАКТЫ -->
   <a href="https://t.me/prodbyrowvy">
     <img src="https://img.shields.io/badge/Telegram-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
