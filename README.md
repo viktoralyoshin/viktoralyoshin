@@ -34,10 +34,10 @@
   <br><br>
 
   <!-- 5. КОНТАКТЫ -->
-  <a href="https://t.me/ТВОЙ_НИК">
+  <a href="https://t.me/prodbyrowvy">
     <img src="https://img.shields.io/badge/Telegram-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:твоя@почта.com">
+  <a href="mailto:viktor.aleshin2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Write_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
