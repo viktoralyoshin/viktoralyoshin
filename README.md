@@ -7,6 +7,17 @@
 
   <br><br>
 
+  ### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Genetic Algorithms & High Load Systems**
+- 🌱 I’m currently learning **Advanced C++ & Microservices in Go**
+- ⚡ Fun fact: **I use Arch btw (just kidding... or not?)**
+- 🎮 Hobbies: **Coding, Retro Games, Tech**
+
+  <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</div>
+
   <!-- 2. ЗМЕЙКА (Самая надежная статистика сейчас) -->
   <!-- Она берется из твоего же репозитория, поэтому не упадет -->
   <picture>
@@ -33,6 +44,14 @@
 
   <br><br>
 
+  <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</div>
+
+  ### 🚀 Latest Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
   <!-- 5. КОНТАКТЫ -->
   <a href="https://t.me/prodbyrowvy">
     <img src="https://img.shields.io/badge/Telegram-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -41,4 +60,8 @@
     <img src="https://img.shields.io/badge/Email-Write_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
+</div>
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviktoralyoshin&count_bg=%237DA6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
 </div>
