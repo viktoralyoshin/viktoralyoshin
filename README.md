@@ -55,5 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviktoralyoshin&count_bg=%237DA6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+  <br>
+  <!-- Надежный счетчик просмотров -->
+  <img src="https://komarev.com/ghpvc/?username=viktoralyoshin&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile Views"/>
 </div>
