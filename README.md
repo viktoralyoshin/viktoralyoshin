@@ -16,17 +16,24 @@
 
   <!-- 3. СТАТИСТИКА (Карточки) -->
   <!-- Обернуто в таблицу для выравнивания -->
-  <div align="center">
-  <!-- Альтернативная статистика (Streak Stats) -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktoralyoshin&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
-  
-  <br>
-
-  <!-- Языки (через другой сервер) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viktoralyoshin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-</div>
+  <table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <!-- Левая карточка: Streak Stats (Вместо обычной статистики) -->
+      <!-- Она показывает сколько дней подряд ты кодишь и общие коммиты -->
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktoralyoshin&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <!-- Правая карточка: Языки (Через зеркало/форк) -->
+      <!-- Используем альтернативный домен, так как основной лежит -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viktoralyoshin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
   <br>
 
