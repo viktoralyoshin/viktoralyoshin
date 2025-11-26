@@ -16,22 +16,17 @@
 
   <!-- 3. СТАТИСТИКА (Карточки) -->
   <!-- Обернуто в таблицу для выравнивания -->
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <!-- Статистика аккаунта -->
-          <img src="https://github-readme-stats.vercel.app/api?username=viktoralyoshin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <!-- Топ языков -->
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktoralyoshin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="160" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+  <!-- Альтернативная статистика (Streak Stats) -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktoralyoshin&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
+  
+  <br>
+
+  <!-- Языки (через другой сервер) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viktoralyoshin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+</div>
 
   <br>
 
